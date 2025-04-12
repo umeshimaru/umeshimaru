@@ -1,57 +1,48 @@
-# 👋 Hello, I'm Ume!
-
-## 🌱 学んだ技術
 <div align="center">
-  <h2>フロントエンド</h2>
+  
+  <h2>👋初めまして、umeshimaruです</h2>
+</div>
+
+<div align="center">
+  <h2>🌱 学んだ技術</h2>
+</div>
+
+<div align="center">
+  <h3>フロントエンド</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next&theme=light" />
   </a>
 </div>
 
 <div align="center">
-  <h2>バックエンド</h2>
+  <h3>バックエンド</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails" />
   </a>
 </div>
 
 <div align="center">
-  <h2>データベース</h2>
+  <h3>データベース</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=light" />
   </a>
 </div>
 
 <div align="center">
-  <h2>その他</h2>
+  <h3>その他</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light" />
   </a>
 </div>
 
 <div align="center">
-  <h2>これから学ぶ技術</h2>
+  <h2>📚 これから学ぶ技術</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws&theme=light" />
   </a>
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeshimaru&theme=2077)
-
-
-
-## 🏆 Featured Projects
-- [Project Name](link): A tool for managing resources visually.
-- [Another Project](link): Automating workflows at scale.
-
-## 🔧 Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-## 📈 My Development Stats
-![Weeks Active](https://img.shields.io/badge/weeks_active-120-orange?style=flat-square)
-
-## 📬 Let's Connect
-- Twitter: [Link]
-- LinkedIn: [Link]
-
+<div align="center">
+  <h2>📚 学習ログ</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeshimaru&theme=2077" />
+</div>
