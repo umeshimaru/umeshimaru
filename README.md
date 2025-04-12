@@ -1,33 +1,42 @@
 # 👋 Hello, I'm Ume!
 
 ## 🌱 学んだ技術
-- フロントエンド
-<p align="center">
+<div align="center">
+  <h2>フロントエンド</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next&theme=light" />
   </a>
-</p>
+</div>
 
-- バックエンド
-<p align="center">
+<div align="center">
+  <h2>バックエンド</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails" />
   </a>
-</p>
+</div>
 
-- データベース
-<p align="center">
+<div align="center">
+  <h2>データベース</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=light" />
   </a>
-</p>
+</div>
 
-- その他
-<p align="center">
+<div align="center">
+  <h2>その他</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light" />
   </a>
-</p>
+</div>
+
+<div align="center">
+  <h2>これから学ぶ技術</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws&theme=light" />
+  </a>
+</div>
+
+
 
 
 ## 🏆 Featured Projects
