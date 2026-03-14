@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👋初めまして、umeshimaruです</h2>
+  <h2>👋初めまして、umeshimaru(元子供英会話講師)です</h2>
 </div>
 
 <div align="center">
