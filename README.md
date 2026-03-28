@@ -30,7 +30,7 @@
 <div align="center">
   <h3>バックエンド</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,go" />
   </a>
 </div>
 
